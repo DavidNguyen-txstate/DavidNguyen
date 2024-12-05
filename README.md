@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello 👋 it's me David Nguyen
 
 I am an experienced Software Engineer with a strong background in developing and deploying high-performance, scalable applications. I am skilled in multiple programming languages and adept at designing and implementing microservices architectures. I have a proven track record of optimizing databases, automating CI/CD pipelines, and leading cloud migration projects. I am a collaborative team player with a passion for building innovative solutions. 
 
