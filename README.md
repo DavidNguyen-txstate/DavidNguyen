@@ -28,6 +28,8 @@ More about me:
 <a href="https://www.linkedin.com/in/david-nguyen-34b6421b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david nguyen" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnguyen-txstate&show_icons=true&locale=en&layout=compact" alt="davidnguyen-txstate" /></p>
+
 <!--
 **DavidNguyen-txstate/DavidNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
